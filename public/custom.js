@@ -415,7 +415,6 @@ function loadContent() {
 function editContent(button) {
   const contentElement = document.getElementById("_content");
   const htmlData = document.getElementById("_content").innerHTML;
-  console.log("Data",htmlData);
   if (contentElement && htmlData) {
     contentElement.style.display = "none"; // Hide _content
   }
@@ -520,8 +519,6 @@ $("#commitChangesButton").on("click", function () {
 $(document).ready(function () {
     // Get the current URL
     const currentUrl = window.location.href;
-
-    console.log("Url", currentUrl);
     // Check if the URL is the home URL (without params or routes)
     const isHome = currentUrl === "https://localhost:8080/" || currentUrl === "http://localhost:8080/" || currentUrl === "https://brian-d2367.github.io/ARMalyticsHelp/" || currentUrl === "http://brian-d2367.github.io/ARMalyticsHelp/";
 
@@ -538,7 +535,6 @@ $(document).ready(function () {
 
     if (lastPart) {
       fileName = lastPart; // Get the value of fileName
-      console.log("FileName", fileName);
       loadContent();
     }
   });
