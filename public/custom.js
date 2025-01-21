@@ -14,6 +14,8 @@ var fileName = lastPart;
 let quill;
 
 $(document).ready(function () {
+  $('html').removeAttr('data-bs-theme');
+
   if (lastPart) {
     fileName = lastPart; 
     loadContent();
