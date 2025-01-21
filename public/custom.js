@@ -520,16 +520,10 @@ $("#commitChangesButton").on("click", function () {
 $(document).ready(function () {
     // Get the current URL
     const currentUrl = window.location.href;
-<<<<<<< HEAD
-    console.log("Url",currentUrl);
+
+    console.log("Url", currentUrl);
     // Check if the URL is the home URL (without params or routes)
     const isHome = currentUrl === "https://localhost:8080/" || currentUrl === "http://localhost:8080/" || currentUrl === "https://brian-d2367.github.io/ARMalyticsHelp/" || currentUrl === "http://brian-d2367.github.io/ARMalyticsHelp/";
-=======
-
-  console.log("Url", currentUrl);
-    // Check if the URL is the home URL (without params or routes)
-    const isHome = currentUrl === "https://brian-d2367.github.io/ARMalyticsHelp/" || currentUrl === "http://brian-d2367.github.io/ARMalyticsHelp/";
->>>>>>> 064709fff33c903e888bc0637e3e5585c1454cb3
 
     // Find all divs with the class 'targetDiv'
     const targetDivs = document.querySelectorAll(".targetDiv");
