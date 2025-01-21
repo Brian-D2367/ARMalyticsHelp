@@ -14,8 +14,12 @@ var fileName = lastPart;
 let quill;
 
 $(document).ready(function () {
+<<<<<<< HEAD
   $('html').removeAttr('data-bs-theme');
 
+=======
+   $('html').removeAttr('data-bs-theme');
+>>>>>>> 13d197466c218058ac4a836647a86d6883ae887b
   if (lastPart) {
     fileName = lastPart; 
     loadContent();
