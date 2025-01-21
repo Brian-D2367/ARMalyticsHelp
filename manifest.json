@@ -1,0 +1,352 @@
+{
+  "source_base_path": "C:/Deepak/DocFx/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/Armoury/armoury.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Armoury/armoury.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/Armoury/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Armoury/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/Armoury/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/DigitAll/digitAll.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/DigitAll/digitAll.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/DigitAll/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/DigitAll/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/DigitAll/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/Enemy/enemy.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Enemy/enemy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/Enemy/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Enemy/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/Enemy/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/Pulse/pulse.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Pulse/pulse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/Pulse/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Pulse/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/Pulse/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Campaign Maintenance/campaignMaintenance.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Campaign Maintenance/campaignMaintenance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Dashboard/dashboard.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Dashboard/dashboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Import/Auto Film Number/autofilmnumber.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Import/Auto Film Number/autofilmnumber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Import/RAPS Reporting/rapsreporting.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Import/RAPS Reporting/rapsreporting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Import/Screens Summary/screensSummary.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Import/Screens Summary/screensSummary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Import/import.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Import/import.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Message Alerts/messagealerts.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Message Alerts/messagealerts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/Reports/reports.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/Reports/reports.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/RAPS/raps.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/raps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/RAPS/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/RAPS/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/RAPS/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/Spotter/spotter.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Spotter/spotter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/Spotter/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Spotter/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/Spotter/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/Sys Admin/sysadmin.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Sys Admin/sysadmin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/Sys Admin/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/Sys Admin/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/Sys Admin/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/WRPlive/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/WRPlive/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/WRPlive/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/Articles/WRPlive/wrplive.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/WRPlive/wrplive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/Articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/Articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/Articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
