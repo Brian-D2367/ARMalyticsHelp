@@ -524,7 +524,7 @@ $(document).ready(function () {
     const currentUrl = window.location.href;
 
     // Check if the URL is the home URL (without params or routes)
-    const isHome = currentUrl === "https://localhost:8080/" || currentUrl === "http://localhost:8080/";
+    const isHome = currentUrl === "https://localhost:8080/" || currentUrl === "http://localhost:8080/" || currentUrl === "https://brian-d2367.github.io/ARMalyticsHelp/" || currentUrl === "http://brian-d2367.github.io/ARMalyticsHelp/";
 
     // Find all divs with the class 'targetDiv'
     const targetDivs = document.querySelectorAll(".targetDiv");
